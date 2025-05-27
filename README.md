@@ -10,19 +10,19 @@ MongoDB tiene un modelo de datos basado en documentos, que almacena información
 
 1. **Modelo basado en documentos**: A diferencia de las bases de datos relacionales que tienen una estructura rígida definida de antemano, MongoDB te permite que cada documento tenga una estructura independiente. Los documentos tienen una estructura flexible que se adapta a cualquier uso y tambien jerarquica, estas dos características facilitan mucho el almacenamiento de datos complejos en un solo documento.
 
-**2. NoSQL (No Relacional):** MongoDB no usa tablas como las bases de datos tradicionales, permite guardar datos con diferentes formas y estructuras, esto es útil para proyectos que cambian o crecen rápido.
+2. **NoSQL (No Relacional):** MongoDB no usa tablas como las bases de datos tradicionales, permite guardar datos con diferentes formas y estructuras, esto es útil para proyectos que cambian o crecen rápido.
 
-**3. Escalabilidad horizontal:** Se puede dividir la base de datos en varios servidores (sharding), lo que ayuda a manejar grandes cantidades de información sin perder rendimiento sobre todo en aplicaciones donde el volumen de datos crece rápidamente.
+3. **Escalabilidad horizontal:** Se puede dividir la base de datos en varios servidores (sharding), lo que ayuda a manejar grandes cantidades de información sin perder rendimiento sobre todo en aplicaciones donde el volumen de datos crece rápidamente.
 
-**4. Alta disponibilidad mediante replicación:** MongoDB puede copiar automáticamente los datos en otros servidores. Si alguno falla otro puede seguir funcionando sin perder información.
+4. **Alta disponibilidad mediante replicación:** MongoDB puede copiar automáticamente los datos en otros servidores. Si alguno falla otro puede seguir funcionando sin perder información.
 
-**5. Consultas flexibles:** Permite hacer búsquedas avanzadas usando filtros y operadores. También se pueden hacer análisis de datos con funciones de agregación.
+5. **Consultas flexibles:** Permite hacer búsquedas avanzadas usando filtros y operadores. También se pueden hacer análisis de datos con funciones de agregación.
 
-**6. Soporte de transacciones:** Se pueden realizar operaciones en varios documentos al mismo tiempo como si fuera una sola, asegurando que los datos siempre estén correctos.
+6. **Soporte de transacciones:** Se pueden realizar operaciones en varios documentos al mismo tiempo como si fuera una sola, asegurando que los datos siempre estén correctos.
 
-**7. Agregaciones y MapReduce:** Tiene herramientas que permiten transformar y analizar grandes volúmenes de datos, algo parecido a lo que se hace con SQL en bases de datos relacionales.
+7. **Agregaciones y MapReduce:** Tiene herramientas que permiten transformar y analizar grandes volúmenes de datos, algo parecido a lo que se hace con SQL en bases de datos relacionales.
 
-**8. Compatibilidad con múltiples lenguajes:** Se puede usar MongoDB desde muchos lenguajes de programación como Python, Java o JavaScript, lo que lo hace versatil y práctico para distintos tipos de proyectos.
+8. **Compatibilidad con múltiples lenguajes:** Se puede usar MongoDB desde muchos lenguajes de programación como Python, Java o JavaScript, lo que lo hace versatil y práctico para distintos tipos de proyectos.
 
 
 ### Comparación detallada con bases de datos relacionales
